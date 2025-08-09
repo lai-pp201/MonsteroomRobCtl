@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XRLab\\MoveTwoRobot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F41CB-9F88-BD10-B10A-92C9003B1658}|Assembly-CSharp.csproj|c:\\users\\xrlab\\movetworobot\\assets\\keycodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F41CB-9F88-BD10-B10A-92C9003B1658}|Assembly-CSharp.csproj|solutionrelative:assets\\keycodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F41CB-9F88-BD10-B10A-92C9003B1658}|Assembly-CSharp.csproj|C:\\Users\\XRLab\\MoveTwoRobot\\assets\\robotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F41CB-9F88-BD10-B10A-92C9003B1658}|Assembly-CSharp.csproj|solutionrelative:assets\\robotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F41CB-9F88-BD10-B10A-92C9003B1658}|Assembly-CSharp.csproj|c:\\users\\xrlab\\movetworobot\\assets\\monsteroomrobot_ctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5F41CB-9F88-BD10-B10A-92C9003B1658}|Assembly-CSharp.csproj|solutionrelative:assets\\monsteroomrobot_ctl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeycodeController.cs",
+              "DocumentMoniker": "C:\\Users\\XRLab\\MoveTwoRobot\\Assets\\KeycodeController.cs",
+              "RelativeDocumentMoniker": "Assets\\KeycodeController.cs",
+              "ToolTip": "C:\\Users\\XRLab\\MoveTwoRobot\\Assets\\KeycodeController.cs",
+              "RelativeToolTip": "Assets\\KeycodeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvz0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:02:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonsteroomRobot_ctl.cs",
+              "DocumentMoniker": "C:\\Users\\XRLab\\MoveTwoRobot\\Assets\\MonsteroomRobot_ctl.cs",
+              "RelativeDocumentMoniker": "Assets\\MonsteroomRobot_ctl.cs",
+              "ToolTip": "C:\\Users\\XRLab\\MoveTwoRobot\\Assets\\MonsteroomRobot_ctl.cs",
+              "RelativeToolTip": "Assets\\MonsteroomRobot_ctl.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwKUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:56:55.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotController.cs",
+              "DocumentMoniker": "C:\\Users\\XRLab\\MoveTwoRobot\\Assets\\RobotController.cs",
+              "RelativeDocumentMoniker": "Assets\\RobotController.cs",
+              "ToolTip": "C:\\Users\\XRLab\\MoveTwoRobot\\Assets\\RobotController.cs",
+              "RelativeToolTip": "Assets\\RobotController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:54:41.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

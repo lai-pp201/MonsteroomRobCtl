@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0D5F41CB-9F88-BD10-B10A-92C9003B1658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "endel.nativewebsocket", "endel.nativewebsocket.csproj", "{745F507B-9882-2A25-1452-0848D41BFC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D5F41CB-9F88-BD10-B10A-92C9003B1658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5F41CB-9F88-BD10-B10A-92C9003B1658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5F41CB-9F88-BD10-B10A-92C9003B1658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5F41CB-9F88-BD10-B10A-92C9003B1658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745F507B-9882-2A25-1452-0848D41BFC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745F507B-9882-2A25-1452-0848D41BFC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745F507B-9882-2A25-1452-0848D41BFC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745F507B-9882-2A25-1452-0848D41BFC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
